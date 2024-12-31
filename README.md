@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LaClementineOrange
-- 👀 I’m interested in informatic developpement
-- 🌱 I’m currently learning java in order to create Minecraft mods !
+- 👀 I’m interested in Informatic Developpement
+- 🌱 I’m currently learning Java in order to create Minecraft Mods !
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 1+1=2
 
